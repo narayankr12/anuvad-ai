@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+google-genai
+reportlab
+fpdf2
+uharfbuzz
+fonttools
